@@ -6,10 +6,10 @@ In order to access the submission, you must first clone the github repository. I
 
 *git clone https://github.com/Faithie505/computational-theory-assessment-submission.git*
 
-This should copy all relecant folders and files into your current directory.
+This should copy all relevant folders and files into your current directory.
 
 
-To download the necessray extentions, enter:
+To download the necessary extentions, enter:
 
 *pip install -r requirements.txt*
 
